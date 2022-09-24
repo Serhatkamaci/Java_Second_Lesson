@@ -1,4 +1,4 @@
-# -------------------------- HAKKINDA --------------------------
+# -------------------------- HAKKINDA ------------------------
 # Java bootcamp eğitimi ikinci ders videolari egzersizlerini icermektedir.
 
 # -------------------------- ABOUT --------------------------
